@@ -1,0 +1,6 @@
+F:\机务处工作\EmailClient\Database\bin\Debug\Database.dll
+F:\机务处工作\EmailClient\Database\bin\Debug\Database.pdb
+F:\机务处工作\EmailClient\Database\bin\Debug\DBHelp.dll
+F:\机务处工作\EmailClient\Database\bin\Debug\DBHelp.pdb
+F:\机务处工作\EmailClient\Database\obj\Debug\Database.dll
+F:\机务处工作\EmailClient\Database\obj\Debug\Database.pdb

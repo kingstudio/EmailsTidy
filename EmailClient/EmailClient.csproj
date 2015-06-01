@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C9019818-5BA0-4CB3-BE40-70187B28D422}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EmailClient</RootNamespace>
+    <AssemblyName>EmailClient</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>mail.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.DebuggerVisualizers, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountForm.Designer.cs">
+      <DependentUpon>AccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactForm.Designer.cs">
+      <DependentUpon>ContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AccountForm.resx">
+      <DependentUpon>AccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactForm.resx">
+      <DependentUpon>ContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CDO">
+      <Guid>{CD000000-8B95-11D1-82DB-00C04FB1625D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="jmail">
+      <Guid>{AED3A6B0-2171-11D2-B77C-0008C73ACA8F}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\att.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\receive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\TrayIcon_AddIn.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\prev.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AutoUpdate\AutoUpdate.csproj">
+      <Project>{300DF611-E6A4-447F-86CB-FD409C50CE8A}</Project>
+      <Name>AutoUpdate</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{08EAA6FD-0F9F-47BA-95E4-2B3A11CD76D8}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Database\DBClass.csproj">
+      <Project>{B7C827D7-C3BD-4D3C-88C9-A78426FE6553}</Project>
+      <Name>DBClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBHelp\DBHelp.csproj">
+      <Project>{64719ABE-1427-4F11-B5C2-C3B113CE92D6}</Project>
+      <Name>DBHelp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MailRecord\MailRecord.csproj">
+      <Project>{0E7F4CA1-3114-4DB4-B51A-CB103AFEB384}</Project>
+      <Name>MailRecord</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MailViewer\MailsViewer.csproj">
+      <Project>{D4489227-5918-44D7-96CF-B08037966338}</Project>
+      <Name>MailsViewer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\icons\tidy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="mail.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

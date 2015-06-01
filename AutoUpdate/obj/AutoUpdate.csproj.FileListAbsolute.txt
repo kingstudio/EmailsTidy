@@ -1,0 +1,7 @@
+E:\项目\未分类\自动更新程序\obj\Debug\AutoUpdate.exe
+E:\项目\未分类\自动更新程序\obj\Debug\AutoUpdate.pdb
+E:\项目\未分类\自动更新程序\bin\Debug\AutoUpdate.exe
+E:\项目\未分类\自动更新程序\bin\Debug\AutoUpdate.pdb
+E:\项目\未分类\自动更新程序\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\自动更新程序\obj\Debug\AutoUpdate.FrmUpdate.resources
+E:\项目\未分类\自动更新程序\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache

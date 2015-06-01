@@ -1,0 +1,13 @@
+F:\机务处工作\EmailClient\MailViewer\bin\Debug\MailsViewer.exe.config
+F:\机务处工作\EmailClient\MailViewer\bin\Debug\MailsViewer.exe
+F:\机务处工作\EmailClient\MailViewer\bin\Debug\MailsViewer.pdb
+F:\机务处工作\EmailClient\MailViewer\bin\Debug\Database.dll
+F:\机务处工作\EmailClient\MailViewer\bin\Debug\DBHelp.dll
+F:\机务处工作\EmailClient\MailViewer\bin\Debug\Database.pdb
+F:\机务处工作\EmailClient\MailViewer\bin\Debug\DBHelp.pdb
+F:\机务处工作\EmailClient\MailViewer\obj\x86\Debug\MailsViewer.csprojResolveAssemblyReference.cache
+F:\机务处工作\EmailClient\MailViewer\obj\x86\Debug\MailsViewer.MailViewer.resources
+F:\机务处工作\EmailClient\MailViewer\obj\x86\Debug\MailsViewer.Properties.Resources.resources
+F:\机务处工作\EmailClient\MailViewer\obj\x86\Debug\MailsViewer.csproj.GenerateResource.Cache
+F:\机务处工作\EmailClient\MailViewer\obj\x86\Debug\MailsViewer.exe
+F:\机务处工作\EmailClient\MailViewer\obj\x86\Debug\MailsViewer.pdb

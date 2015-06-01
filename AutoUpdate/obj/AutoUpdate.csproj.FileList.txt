@@ -1,0 +1,7 @@
+obj\Debug\AutoUpdate.exe
+obj\Debug\AutoUpdate.pdb
+bin\Debug\AutoUpdate.exe
+bin\Debug\AutoUpdate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AutoUpdate.FrmUpdate.resources
+obj\Debug\AutoUpdate.csproj.GenerateResource.Cache

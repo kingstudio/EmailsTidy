@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+  <description>Application autoUpdate</description>
+  <Updater>
+	<Url>http://www.unwest.com/EmailClient/AutoUpdate/</Url>
+	<LastUpdateTime>2015-04-05</LastUpdateTime>
+  </Updater>
+  <Application applicationId="ItemSoft">
+    <EntryPoint>EmailClient.exe</EntryPoint>
+    <Location>.</Location>
+    <Version>1.0.0.0</Version>
+  </Application>
+  <Files>
+	   <File Ver="1.0.0.0" Name="EmailClient.exe" />
+	   <File Ver="1.0.0.0" Name="AutoUpdate.exe"/>
+	   <File Ver="1.0.0.0" Name="DBHelp.dll"/>
+	   <File Ver="1.0.0.0" Name="Interop.jmail.dll"/>
+	   <File Ver="1.0.0.0" Name="UpdateList.xml"/>
+	   <File Ver="1.0.0.0" Name="EmailClient.exe.config"/>
+  </Files>
+</AutoUpdater>

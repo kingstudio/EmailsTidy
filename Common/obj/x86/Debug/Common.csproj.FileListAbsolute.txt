@@ -1,0 +1,15 @@
+F:\机务处工作\EmailClient\Common\bin\Debug\Common.dll
+F:\机务处工作\EmailClient\Common\bin\Debug\Common.pdb
+F:\机务处工作\EmailClient\Common\bin\Debug\Aspose.Words.dll
+F:\机务处工作\EmailClient\Common\bin\Debug\Database.dll
+F:\机务处工作\EmailClient\Common\bin\Debug\DBHelp.dll
+F:\机务处工作\EmailClient\Common\bin\Debug\Database.pdb
+F:\机务处工作\EmailClient\Common\bin\Debug\DBHelp.pdb
+F:\机务处工作\EmailClient\Common\bin\Debug\Aspose.Words.xml
+F:\机务处工作\EmailClient\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+F:\机务处工作\EmailClient\Common\obj\x86\Debug\Common.Properties.Resources.resources
+F:\机务处工作\EmailClient\Common\obj\x86\Debug\Common.csproj.GenerateResource.Cache
+F:\机务处工作\EmailClient\Common\obj\x86\Debug\Common.dll
+F:\机务处工作\EmailClient\Common\obj\x86\Debug\Common.pdb
+F:\机务处工作\EmailClient\Common\bin\Debug\Aspose.Pdf.dll
+F:\机务处工作\EmailClient\Common\bin\Debug\Aspose.Pdf.xml

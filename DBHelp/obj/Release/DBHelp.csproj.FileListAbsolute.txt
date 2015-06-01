@@ -1,0 +1,5 @@
+H:\Programme\C#\NetXenClient\DBHelp\bin\Release\DBHelp.dll
+H:\Programme\C#\NetXenClient\DBHelp\bin\Release\DBHelp.pdb
+H:\Programme\C#\NetXenClient\DBHelp\obj\Release\ResolveAssemblyReference.cache
+H:\Programme\C#\NetXenClient\DBHelp\obj\Release\DBHelp.dll
+H:\Programme\C#\NetXenClient\DBHelp\obj\Release\DBHelp.pdb

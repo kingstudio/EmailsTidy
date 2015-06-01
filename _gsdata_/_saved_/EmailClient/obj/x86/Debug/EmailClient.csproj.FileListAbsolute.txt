@@ -1,0 +1,43 @@
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\bin\Debug\EmailClient.exe
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\bin\Debug\EmailClient.pdb
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\EmailClient.MainForm.resources
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\EmailClient.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\EmailClient.exe
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\EmailClient.pdb
+D:\Documents\Visual Studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\EmailClient.AccountForm.resources
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\bin\Debug\Interop.jmail.dll
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\Interop.jmail.dll
+d:\documents\visual studio 2010\Projects\EmailClient\EmailClient\obj\x86\Debug\EmailClient.csproj.ResolveComReference.cache
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\EmailClient.exe.config
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\EmailClient.exe
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\EmailClient.pdb
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\AutoUpdate.exe
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\Common.dll
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\Database.dll
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\DBHelp.dll
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\MailRecord.exe
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\MailsViewer.exe
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\Aspose.Words.dll
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\AutoUpdate.pdb
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\Database.pdb
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\DBHelp.pdb
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\Common.pdb
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\MailRecord.pdb
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\MailsViewer.pdb
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\Aspose.Words.xml
+F:\机务处工作\EmailClient\EmailClient\bin\Debug\Interop.jmail.dll
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.csprojResolveAssemblyReference.cache
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\Interop.ADODB.dll
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\Interop.CDO.dll
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\Interop.jmail.dll
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.csproj.ResolveComReference.cache
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.AccountForm.resources
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.ContactForm.resources
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.MainForm.resources
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.Properties.Resources.resources
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.csproj.GenerateResource.Cache
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.exe
+F:\机务处工作\EmailClient\EmailClient\obj\x86\Debug\EmailClient.pdb

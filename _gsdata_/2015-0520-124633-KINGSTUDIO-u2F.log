@@ -1,0 +1,56 @@
+2015-05-20 12:46:33: ----- ：任务 'u2F'：计算机 'KINGSTUDIO' 上的分析操作已由 User 所启动 (GoodSync v 9.6.2.5) -----
+2015-05-20 12:46:33: =大白菜U盘:\EmailClient (H:/EmailClient) =PropDels=> F:\机务处工作\EmailClient (F:/机务处工作/EmailClient)
+2015-05-20 12:46:33: 左侧：文件： 306 (已排除 1)。文件夹： 68 (已排除 1)。 H: FAT32, 可用空间：453 MB，总计空间：1.31 GB
+2015-05-20 12:46:33: 右侧：文件： 301 (已排除 4)。文件夹： 67 (已排除 1)。 F: NTFS, 可用空间：64.1 GB，总计空间：99.9 GB
+2015-05-20 12:46:33: /EmailClient/bin/Debug/EmailClient.vshost.exe.manifest: 警告：旧文件将替换新文件
+2015-05-20 12:46:33: 变更：42， 冲突：， 复制时间：， 复制状态：/1， 错误： 
+2015-05-20 12:46:33: Left to Right: Copy File: 37 Delete File: 5 
+2015-05-20 12:46:33: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2015-05-20 12:46:33: 
+2015-05-20 12:46:37: ===== ：任务 'u2F'：同步已被 User 所启动，位于计算机 'KINGSTUDIO' =====
+2015-05-20 12:46:37: =大白菜U盘:\EmailClient (H:/EmailClient) =PropDels=> F:\机务处工作\EmailClient (F:/机务处工作/EmailClient)
+2015-05-20 12:46:37: 删除文件 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月发文总记录.doc'
+2015-05-20 12:46:37: 删除文件 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月王裕林发文记录.doc'
+2015-05-20 12:46:37: 删除文件 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/GenerateResource.read.1.tlog'
+2015-05-20 12:46:37: 删除文件 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/GenerateResource.write.1.tlog'
+2015-05-20 12:46:37: 删除文件 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/ResolveAssemblyReference.cache'
+2015-05-20 12:46:37: 创建文件夹 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月'
+2015-05-20 12:46:37: 覆盖复制 'H:/EmailClient/Database/Common.cs' -> 'F:/机务处工作/EmailClient/Database/Common.cs'
+2015-05-20 12:46:37: 覆盖复制 'H:/EmailClient/EmailClient/bin/Debug/config.ini' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/config.ini'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/bin/Debug/data.mdb' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/data.mdb'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/bin/Debug/EmailClient.exe' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/EmailClient.exe'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/bin/Debug/EmailClient.pdb' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/EmailClient.pdb'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/bin/Debug/EmailClient.vshost.exe' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/EmailClient.vshost.exe'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/bin/Debug/EmailClient.vshost.exe.manifest' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/EmailClient.vshost.exe.manifest'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月发文总记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月发文总记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月史珂发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月史珂发文记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月吴光琦发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月吴光琦发文记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月李飞发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月李飞发文记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月杨秀锋发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月杨秀锋发文记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月王裕林发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月王裕林发文记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月肖青发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月肖青发文记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月陈亮发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月陈亮发文记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月陈强发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月陈强发文记录.doc'
+2015-05-20 12:46:38: 新建复制 'H:/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月黄进发文记录.doc' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/export/2015年4月/2015年4月黄进发文记录.doc'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/bin/Debug/Interop.jmail.dll' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/Interop.jmail.dll'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/bin/Debug/mail.html' -> 'F:/机务处工作/EmailClient/EmailClient/bin/Debug/mail.html'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/MainForm.cs' -> 'F:/机务处工作/EmailClient/EmailClient/MainForm.cs'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.AccountForm.resources' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.AccountForm.resources'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.ContactForm.resources' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.ContactForm.resources'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.csproj.FileListAbsolute.txt' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.csproj.FileListAbsolute.txt'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.csproj.GenerateResource.Cache' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.csproj.GenerateResource.Cache'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.csproj.ResolveComReference.cache' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.csproj.ResolveComReference.cache'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.csprojResolveAssemblyReference.cache' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.csprojResolveAssemblyReference.cache'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.exe' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.exe'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.MainForm.resources' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.MainForm.resources'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.pdb' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.pdb'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/EmailClient.Properties.Resources.resources' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/EmailClient.Properties.Resources.resources'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/Interop.ADODB.dll' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/Interop.ADODB.dll'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/Interop.CDO.dll' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/Interop.CDO.dll'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/EmailClient/obj/x86/Debug/Interop.jmail.dll' -> 'F:/机务处工作/EmailClient/EmailClient/obj/x86/Debug/Interop.jmail.dll'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/MailRecord/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache' -> 'F:/机务处工作/EmailClient/MailRecord/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache'
+2015-05-20 12:46:38: 覆盖复制 'H:/EmailClient/MailRecord/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache' -> 'F:/机务处工作/EmailClient/MailRecord/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache'
+2015-05-20 12:46:38: 项目同步未必： 43，错误： 
+2015-05-20 12:46:38: ===== ：同步完毕。时间：00:00:01，速度： 9.80 MB/s (5.89 MB/s) =====
+2015-05-20 12:46:38: 
